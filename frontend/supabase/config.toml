@@ -1,0 +1,16 @@
+project_id = "etcewczczretsrjfqynl"
+
+[functions.livekit-token]
+verify_jwt = true
+
+[functions.create-job]
+verify_jwt = true
+
+[functions.transcribe-audio]
+verify_jwt = true
+
+[functions.generate-diy-plan]
+verify_jwt = true
+
+[functions.fetch-nearby-stores]
+verify_jwt = true
